@@ -1,11 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/bash/
 
 
 
 
 
 
-
-while [true]; do
+while true; do
 	uptime
 	sleep 1m 
 done
