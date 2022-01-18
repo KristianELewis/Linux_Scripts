@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#easily removes exe and txt files from directory
+
+rm *.txt
+rm *.exe
